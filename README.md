@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iHasan1
 - 👀 I’m interested in chess and table tennis
-- 🌱 I’m currently learning kafkajs
+- 🌱 I’m currently focussed on distributed system applications.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 You reach me through my linkedin Profile
 
